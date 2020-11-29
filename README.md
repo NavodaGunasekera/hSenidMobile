@@ -4,5 +4,5 @@ Read product- http//localhost:9191/products
 
 Add one product- http//localhost:9191/Addproduct
 
-Add products list - http//localhost:3699/Addproducts
+Add products list - http//localhost:9191/Addproducts
 
